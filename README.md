@@ -6,8 +6,8 @@ Not a real programmer, just someone who codes for fun and yes, <ins>AI was used<
 
 ## Languages
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=pedrodanielsantos&theme=dark&hide_title=true&card_width=475)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://raw.githubusercontent.com/pedrodanielsantos/pedrodanielsantos/ci/update-readme-cards/profile/top-langs.svg)](https://github.com/stats-organization/github-stats-extended)
 
 ## Contributions
 
-[![Contributions](https://github-stats-extended.vercel.app/api?username=pedrodanielsantos&theme=dark&hide_title=true&include_all_commits=true&card_width=475&rank_icon=github&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![Contributions](https://raw.githubusercontent.com/pedrodanielsantos/pedrodanielsantos/ci/update-readme-cards/profile/stats.svg)](https://github.com/stats-organization/github-stats-extended)
