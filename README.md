@@ -2,7 +2,7 @@
 
 ## About
 
-Not a real programmer, just someone who codes for fun and yes, <ins>AI was used</ins>.
+Just someone who works on stuff for fun and yes, <ins>AI was used</ins>.
 
 ## Languages
 
